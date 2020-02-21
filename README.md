@@ -1,7 +1,8 @@
 
-##Advanced Lane Finding Project
+## Advanced Lane Finding Project
+This project was executed as a par tof the Udacity Autonomous Vehicle Nano Degree Program. This project invoves a deeper understangding of the effect of color schemes on lane detection and estimating road trajectories which are required by the downstream planning and control algorithms.
 
-The goals / steps of this project are the following:
+The goals of this project are:
 
 * Compute the camera calibration matrix and distortion coefficients given a set of chessboard images.
 * Apply a distortion correction to raw images.
